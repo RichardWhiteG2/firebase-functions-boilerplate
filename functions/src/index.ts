@@ -1,5 +1,5 @@
 import * as admin from "firebase-admin";
-import * as serviceAccount from "./config/vichosworld-mx-firebase-adminsdk-2knjr-e5a5d875cf.json";
+import * as serviceAccount from "./config/project-mx-firebase-adminsdxxxxjson";
 import "reflect-metadata";
 import { handler as productsHandler } from "./products/handler";
 import { handler as ordersHandler } from "./orders/handler";
