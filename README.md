@@ -1,4 +1,4 @@
-# Cloud Function VichosWordl 
+# Cloud Function BoilerPlate 
 
 This is the boilerplate Cloud Functions service.
 
