@@ -1,6 +1,6 @@
 # Cloud Function VichosWordl 
 
-This is the presales Cloud Functions service for the presales app
+This is the boilerplate Cloud Functions service.
 
 ## 💻 Technologies
 
